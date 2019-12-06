@@ -11,4 +11,5 @@ python filter_barcodes.py -i input.fastq -o output.fastq
 python filter_22G_reads.py -i input.fastq -o output.fastq
 
 3) Example for filter_protein_coding.sh:
+
 sh filter_protein_coding.sh
