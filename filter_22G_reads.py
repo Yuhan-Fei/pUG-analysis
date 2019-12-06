@@ -5,8 +5,8 @@ from optparse import OptionParser
 
 
 parser = OptionParser()
-parser.add_option("--i", dest="infile", help="the name of input fastq file", metavar="FILE")
-parser.add_option("--o", dest="outfile", help="the name of oufput fastq file", metavar="FILE")
+parser.add_option("-i", dest="infile", help="the name of input fastq file", metavar="FILE")
+parser.add_option("-o", dest="outfile", help="the name of oufput fastq file", metavar="FILE")
 (options, args) = parser.parse_args()
 
 
