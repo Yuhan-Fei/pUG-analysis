@@ -1,6 +1,6 @@
 # pUG-analysis
 
-This repository contains the custom scripts used to analyze poly(UG)-tailed RNA injection small RNA-seq data.
+This repository contains the custom scripts used to identify poly(UG)-tailed RNAs in small RNA sequencing data.
 
 ## :round_pushpin: Cite us
 If you use these scripts in your research, we kindly ask that you cite our paper: 
